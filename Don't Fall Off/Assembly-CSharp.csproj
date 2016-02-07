@@ -70,9 +70,9 @@
      <Compile Include="Assets\CrossPlatformInput\Scripts\TouchPad.cs" />
      <Compile Include="Assets\CrossPlatformInput\Scripts\VirtualInput.cs" />
      <Compile Include="Assets\Scripts\CollisionTriggers.cs" />
-     <Compile Include="Assets\Scripts\KillScript.cs" />
      <Compile Include="Assets\Scripts\ObjectController.cs" />
      <Compile Include="Assets\Scripts\ObjectSpawner.cs" />
+     <Compile Include="Assets\Scripts\SmoothCamera2D.cs" />
      <None Include="Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Cameras\CameraGuidelines.txt" />
  <Reference Include="UnityEngine.UI">
