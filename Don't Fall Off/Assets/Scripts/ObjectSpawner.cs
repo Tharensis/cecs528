@@ -61,6 +61,11 @@ public class ObjectSpawner : MonoBehaviour
 		newObject.GetComponent<Rigidbody2D> ().velocity = (player - objectPosition) * velocity;
 		newObject.GetComponent<Rigidbody2D> ().angularVelocity = 1000 * Random.Range(-1.0f, 1.0f);
 
+		// Adjust thrown direction by random amount
+		Vector2 objectVelocity = newObject.GetComponent<Rigidbody2D> ().velocity;
+		objectVelocity.x = objectVelocity.x + Random.Range (-3.0f, 3.0f);
+		objectVelocity.y = objectVelocity.y + Random.Range (-3.0f, 3.0f);
+
 		newObject.GetComponent<AudioSource> ().Play ();
 
 		// Destroy object in destroyTime seconds
@@ -69,7 +74,6 @@ public class ObjectSpawner : MonoBehaviour
 
     public void beginSpawning ()
 	{
-		print (spawnTime);
 		InvokeRepeating ("Spawn", spawnTime, spawnTime);
 	}
 
