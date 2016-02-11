@@ -11,7 +11,8 @@ public class CollisionTriggers : MonoBehaviour {
 			Destroy (other.gameObject);
 		} else if(other.gameObject.CompareTag("Player"))
 		{
-			SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex);
+			GameObject.Find ("GameManager").GetComponent<GameManager> ().endGame ();
+			//SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex);
 		} else {
 			print (other.gameObject.tag);
 		}
