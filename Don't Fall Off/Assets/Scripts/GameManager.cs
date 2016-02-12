@@ -14,6 +14,7 @@ public class GameManager : MonoBehaviour {
 	private GameObject levelText;
 	private Text timeText;
 	ObjectSpawner spawner;
+	private GameObject endGameView;
 
 	// Use this for initialization
 	void Start () 
@@ -22,6 +23,9 @@ public class GameManager : MonoBehaviour {
 		spawner.stopSpawning ();
 		timeText = GameObject.Find("TimeText").GetComponent<Text>();
 		levelText = GameObject.Find ("LevelText");
+
+		endGameView = GameObject.Find ("End Game");
+		endGameView.SetActive (false);
 
 		beginLevel ();
 	}
@@ -37,8 +41,11 @@ public class GameManager : MonoBehaviour {
 		// Reset time left
 		timeLeft = maxLevelTime;
 
+		// Reset player to original position and reset velocity
+		resetPlayer ();
+
 		// Display level text
-		levelText.GetComponent<Text> ().text = "Level: " + level;
+		levelText.GetComponent<Text> ().text = "Level " + level;
 		levelText.SetActive (true);
 
 		// Set init time text
@@ -64,7 +71,9 @@ public class GameManager : MonoBehaviour {
 
 	void finishLevel ()
 	{
+		// Stop throwing objects
 		spawner.stopSpawning ();
+
 		level++;
 		beginLevel ();
 	}
@@ -95,8 +104,30 @@ public class GameManager : MonoBehaviour {
 
 	public void endGame()
 	{
-		//GameObject.FindGameObjectWithTag ("Player").transform.position = new Vector2 (0, 0);
+		CancelInvoke ();
+
+		// Show new level text saying that you won or something.
+		resetPlayer ();
+		spawner.stopSpawning ();
+		gamePlaying = false;
+
+		endGameView.SetActive (true);
+		GameObject.Find ("End Game Text").GetComponent<Text> ().text = "GAME OVER\nYou made it to LEVEL " + level;
+		GameObject.FindGameObjectWithTag ("Player").GetComponent<Rigidbody2D> ().isKinematic = true;
+		return;
+	}
+
+	void resetPlayer()
+	{
+		GameObject player = GameObject.FindGameObjectWithTag ("Player");
+		player.transform.position = new Vector3 (0f, 1.5f, 0f);
+		player.GetComponent<Rigidbody2D> ().velocity = new Vector2 (0, 0);
+	}
+
+	public void restartGame ()
+	{
 		SceneManager.LoadScene (SceneManager.GetActiveScene ().buildIndex);
+		print ("FUCK");
 		return;
 	}
 }

@@ -63,8 +63,11 @@ public class ObjectSpawner : MonoBehaviour
 
 		// Adjust thrown direction by random amount
 		Vector2 objectVelocity = newObject.GetComponent<Rigidbody2D> ().velocity;
-		objectVelocity.x = objectVelocity.x + Random.Range (-3.0f, 3.0f);
-		objectVelocity.y = objectVelocity.y + Random.Range (-3.0f, 3.0f);
+		//objectVelocity.x = objectVelocity.x + Random.Range (-3.0f, 3.0f);
+		//objectVelocity.y = objectVelocity.y + Random.Range (-3.0f, 3.0f);
+
+		objectVelocity.x = objectVelocity.x + objectVelocity.x *  Random.Range (0, 10);
+		objectVelocity.y = objectVelocity.y + objectVelocity.y *  Random.Range (0, 10);
 
 		newObject.GetComponent<AudioSource> ().Play ();
 
@@ -75,10 +78,12 @@ public class ObjectSpawner : MonoBehaviour
     public void beginSpawning ()
 	{
 		InvokeRepeating ("Spawn", spawnTime, spawnTime);
+		spawning = true;
 	}
 
 	public void stopSpawning()
 	{
 		CancelInvoke ();
+		spawning = false;
 	}
 }
