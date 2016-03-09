@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: 9d1798ff8b4ecab4196bc84eb31707e3
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sitter
+    100004: Sitter Head
+    100006: Sitter L Calf
+    100008: Sitter L Clavicle
+    100010: Sitter L Finger0
+    100012: Sitter L Finger2
+    100014: Sitter L Finger3
+    100016: Sitter L Foot
+    100018: Sitter L Forearm
+    100020: Sitter L Hand
+    100022: Sitter L Thigh
+    100024: Sitter L Toe0
+    100026: Sitter L Toe01
+    100028: Sitter L Toe02
+    100030: Sitter L UpperArm
+    100032: Sitter LDigit21
+    100034: Sitter LDigit22
+    100036: Sitter LDigit23
+    100038: Sitter LDigit31
+    100040: Sitter LDigit32
+    100042: Sitter LDigit33
+    100044: Sitter LDigit41
+    100046: Sitter LDigit42
+    100048: Sitter LDigit43
+    100050: Sitter LDigit51
+    100052: Sitter LDigit52
+    100054: Sitter LDigit53
+    100056: Sitter LIKTarget
+    100058: Sitter LPlatform
+    100060: Sitter Neck1
+    100062: Sitter Neck2
+    100064: Sitter Pelvis
+    100066: Sitter PelvisBone01
+    100068: Sitter R Calf
+    100070: Sitter R Clavicle
+    100072: Sitter R Finger0
+    100074: Sitter R Finger2
+    100076: Sitter R Finger3
+    100078: Sitter R Foot
+    100080: Sitter R Forearm
+    100082: Sitter R Hand
+    100084: Sitter R Thigh
+    100086: Sitter R Toe0
+    100088: Sitter R Toe01
+    100090: Sitter R Toe02
+    100092: Sitter R UpperArm
+    100094: Sitter RDigit21
+    100096: Sitter RDigit22
+    100098: Sitter RDigit23
+    100100: Sitter RDigit31
+    100102: Sitter RDigit32
+    100104: Sitter RDigit33
+    100106: Sitter RDigit41
+    100108: Sitter RDigit42
+    100110: Sitter RDigit43
+    100112: Sitter RDigit51
+    100114: Sitter RDigit52
+    100116: Sitter RDigit53
+    100118: Sitter RIKTarget
+    100120: Sitter RPlatform
+    100122: Sitter Spine1
+    100124: Sitter Spine2
+    100126: Sitter Spine3
+    100128: Sitter Spine4
+    100130: SitterJaw
+    100132: Tray Position
+    400000: //RootNode
+    400002: Sitter
+    400004: Sitter Head
+    400006: Sitter L Calf
+    400008: Sitter L Clavicle
+    400010: Sitter L Finger0
+    400012: Sitter L Finger2
+    400014: Sitter L Finger3
+    400016: Sitter L Foot
+    400018: Sitter L Forearm
+    400020: Sitter L Hand
+    400022: Sitter L Thigh
+    400024: Sitter L Toe0
+    400026: Sitter L Toe01
+    400028: Sitter L Toe02
+    400030: Sitter L UpperArm
+    400032: Sitter LDigit21
+    400034: Sitter LDigit22
+    400036: Sitter LDigit23
+    400038: Sitter LDigit31
+    400040: Sitter LDigit32
+    400042: Sitter LDigit33
+    400044: Sitter LDigit41
+    400046: Sitter LDigit42
+    400048: Sitter LDigit43
+    400050: Sitter LDigit51
+    400052: Sitter LDigit52
+    400054: Sitter LDigit53
+    400056: Sitter LIKTarget
+    400058: Sitter LPlatform
+    400060: Sitter Neck1
+    400062: Sitter Neck2
+    400064: Sitter Pelvis
+    400066: Sitter PelvisBone01
+    400068: Sitter R Calf
+    400070: Sitter R Clavicle
+    400072: Sitter R Finger0
+    400074: Sitter R Finger2
+    400076: Sitter R Finger3
+    400078: Sitter R Foot
+    400080: Sitter R Forearm
+    400082: Sitter R Hand
+    400084: Sitter R Thigh
+    400086: Sitter R Toe0
+    400088: Sitter R Toe01
+    400090: Sitter R Toe02
+    400092: Sitter R UpperArm
+    400094: Sitter RDigit21
+    400096: Sitter RDigit22
+    400098: Sitter RDigit23
+    400100: Sitter RDigit31
+    400102: Sitter RDigit32
+    400104: Sitter RDigit33
+    400106: Sitter RDigit41
+    400108: Sitter RDigit42
+    400110: Sitter RDigit43
+    400112: Sitter RDigit51
+    400114: Sitter RDigit52
+    400116: Sitter RDigit53
+    400118: Sitter RIKTarget
+    400120: Sitter RPlatform
+    400122: Sitter Spine1
+    400124: Sitter Spine2
+    400126: Sitter Spine3
+    400128: Sitter Spine4
+    400130: SitterJaw
+    400132: Tray Position
+    7400000: Sitter Idle
+    7400002: Clap Hands
+    7400004: Listening
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Sitter Idle
+      takeName: Take 001
+      firstFrame: 21
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Clap Hands
+      takeName: Take 001
+      firstFrame: 190
+      lastFrame: 278
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Listening
+      takeName: Take 001
+      firstFrame: 284
+      lastFrame: 350
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Sitter Pelvis
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0168750416, y: 0, z: .00843752082}
+        length: .0210938118
+        modified: 1
+    - boneName: Sitter L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .128775164, y: 0, z: .0643875822}
+        length: .160969019
+        modified: 1
+    - boneName: Sitter R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.0000038, y: -60.0000038, z: -90}
+        max: {x: 60.0000038, y: 60.0000038, z: 50}
+        value: {x: .128775224, y: 0, z: .064387612}
+        length: .160969108
+        modified: 1
+    - boneName: Sitter L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .13262713, y: 0, z: .0663135648}
+        length: .165783986
+        modified: 1
+    - boneName: Sitter R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .132297769, y: 0, z: .0661488846}
+        length: .165372282
+        modified: 1
+    - boneName: Sitter L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .0371707417, y: 0, z: .0185853709}
+        length: .0464634448
+        modified: 1
+    - boneName: Sitter R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.0000019, z: -50}
+        max: {x: 0, y: 30.0000019, z: 50}
+        value: {x: .0377869345, y: 0, z: .0188934673}
+        length: .0472336859
+        modified: 1
+    - boneName: Sitter Spine1
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0254459642, y: 0, z: .0127229821}
+        length: .0318074636
+        modified: 1
+    - boneName: Sitter Spine2
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0846741572, y: 0, z: .0423370786}
+        length: .105842732
+        modified: 1
+    - boneName: Sitter Neck1
+      humanName: Neck
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0336774476, y: 0, z: .0168387238}
+        length: .0420968272
+        modified: 1
+    - boneName: Sitter Head
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: .0336774476, y: 0, z: .0168387238}
+        length: .0420968272
+        modified: 1
+    - boneName: Sitter L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.0000019}
+        value: {x: .0433202982, y: 0, z: .0216601491}
+        length: .0541503914
+        modified: 1
+    - boneName: Sitter R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.0000019}
+        value: {x: .0433203243, y: 0, z: .0216601621}
+        length: .0541504249
+        modified: 1
+    - boneName: Sitter L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .0887246132, y: 0, z: .0443623066}
+        length: .110905804
+        modified: 1
+    - boneName: Sitter R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.0000038}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: .0887245908, y: 0, z: .0443622954}
+        length: .110905774
+        modified: 1
+    - boneName: Sitter L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .0674436092, y: 0, z: .0337218046}
+        length: .0843045488
+        modified: 1
+    - boneName: Sitter R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: .0674436241, y: 0, z: .0337218121}
+        length: .0843045637
+        modified: 1
+    - boneName: Sitter L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0337218046, y: 0, z: .0168609023}
+        length: .0421522744
+        modified: 1
+    - boneName: Sitter R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: .0337218121, y: 0, z: .016860906}
+        length: .0421522819
+        modified: 1
+    - boneName: Sitter L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: .0227892976, y: 0, z: .0113946488}
+        length: .0284866299
+        modified: 1
+    - boneName: Sitter R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: -50}
+        max: {x: 0, y: 0, z: 50}
+        value: {x: .0227889214, y: 0, z: .0113944607}
+        length: .0284861606
+        modified: 1
+    - boneName: SitterJaw
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: -10, z: -10}
+        max: {x: 0, y: 10, z: 10}
+        value: {x: .0799999759, y: 0, z: .0399999879}
+        length: .100000001
+        modified: 1
+    - boneName: Sitter L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: .00829377491, y: 0, z: .00414688746}
+        length: .0103672231
+        modified: 1
+    - boneName: Sitter L Finger2
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .00866591185, y: 0, z: .00433295593}
+        length: .0108323945
+        modified: 1
+    - boneName: Sitter L Finger3
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .00649943482, y: 0, z: .00324971741}
+        length: .00812429562
+        modified: 1
+    - boneName: Sitter LDigit21
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0107526872, y: 0, z: .00537634362}
+        length: .0134408632
+        modified: 1
+    - boneName: Sitter LDigit22
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .00648051454, y: 0, z: .00324025727}
+        length: .00810064562
+        modified: 1
+    - boneName: Sitter LDigit23
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .00486038579, y: 0, z: .00243019289}
+        length: .00607548421
+        modified: 1
+    - boneName: Sitter LDigit31
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0137007823, y: 0, z: .00685039116}
+        length: .0171259828
+        modified: 1
+    - boneName: Sitter LDigit32
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .00765404524, y: 0, z: .00382702262}
+        length: .00956755877
+        modified: 1
+    - boneName: Sitter LDigit33
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .00574053358, y: 0, z: .00287026679}
+        length: .00717566907
+        modified: 1
+    - boneName: Sitter LDigit41
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0115374168, y: 0, z: .00576870842}
+        length: .014421775
+        modified: 1
+    - boneName: Sitter LDigit42
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0054366109, y: 0, z: .00271830545}
+        length: .00679576583
+        modified: 1
+    - boneName: Sitter LDigit43
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .00407745782, y: 0, z: .00203872891}
+        length: .00509682437
+        modified: 1
+    - boneName: Sitter LDigit51
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .00775084458, y: 0, z: .00387542229}
+        length: .00968855806
+        modified: 1
+    - boneName: Sitter LDigit52
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .0042004576, y: 0, z: .0021002288}
+        length: .00525057409
+        modified: 1
+    - boneName: Sitter LDigit53
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .00315034366, y: 0, z: .00157517183}
+        length: .0039379308
+        modified: 1
+    - boneName: Sitter R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: .00829414837, y: 0, z: .00414707419}
+        length: .0103676897
+        modified: 1
+    - boneName: Sitter R Finger2
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .00866643246, y: 0, z: .00433321623}
+        length: .0108330455
+        modified: 1
+    - boneName: Sitter R Finger3
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: .00649982505, y: 0, z: .00324991252}
+        length: .00812478364
+        modified: 1
+    - boneName: Sitter RDigit21
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .0107531194, y: 0, z: .00537655968}
+        length: .0134414034
+        modified: 1
+    - boneName: Sitter RDigit22
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .00648101978, y: 0, z: .00324050989}
+        length: .00810127705
+        modified: 1
+    - boneName: Sitter RDigit23
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .00486076437, y: 0, z: .00243038218}
+        length: .00607595779
+        modified: 1
+    - boneName: Sitter RDigit31
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0137012964, y: 0, z: .00685064821}
+        length: .0171266254
+        modified: 1
+    - boneName: Sitter RDigit32
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .00765468087, y: 0, z: .00382734044}
+        length: .00956835318
+        modified: 1
+    - boneName: Sitter RDigit33
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .00574101042, y: 0, z: .00287050521}
+        length: .00717626512
+        modified: 1
+    - boneName: Sitter RDigit41
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: -7.50000048, z: -50}
+        max: {x: 0, y: 7.50000048, z: 50}
+        value: {x: .0115379253, y: 0, z: .00576896267}
+        length: .0144224111
+        modified: 1
+    - boneName: Sitter RDigit42
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .00543700159, y: 0, z: .00271850079}
+        length: .00679625431
+        modified: 1
+    - boneName: Sitter RDigit43
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .00407775072, y: 0, z: .00203887536}
+        length: .00509719085
+        modified: 1
+    - boneName: Sitter RDigit51
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: .00775125204, y: 0, z: .00387562602}
+        length: .00968906749
+        modified: 1
+    - boneName: Sitter RDigit52
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .00420074118, y: 0, z: .00210037059}
+        length: .00525092846
+        modified: 1
+    - boneName: Sitter RDigit53
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: .003150556, y: 0, z: .001575278}
+        length: .00393819623
+        modified: 1
+    skeleton:
+    - name: Sitter
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Sitter PelvisBone01
+      position: {x: -.00201150007, y: .357351452, z: -.000121927304}
+      rotation: {x: .500000596, y: -.500000596, z: -.499999344, w: .499999344}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Sitter Pelvis
+      position: {x: -.0135113895, y: 4.07507972e-10, z: 2.07219255e-08}
+      rotation: {x: 1.136849e-13, y: -1.20958647e-12, z: -5.68434155e-14, w: .99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Sitter L Thigh
+      position: {x: 3.81469718e-08, y: 6.0265883e-08, z: .032193806}
+      rotation: {x: -.0359527357, y: .997209549, z: .0652792826, w: .00436289096}
+      scale: {x: .99999994, y: 1.00000036, z: .99999994}
+      transformModified: 1
+    - name: Sitter L Calf
+      position: {x: -.160969019, y: -2.86102289e-08, z: 9.53674295e-09}
+      rotation: {x: .00295110629, y: -.0296051297, z: .105442442, w: .993980169}
+      scale: {x: 1.00001109, y: .999988854, z: .99999994}
+      transformModified: 1
+    - name: Sitter L Foot
+      position: {x: -.165782198, y: -1.19209287e-09, z: 0}
+      rotation: {x: .0445950888, y: .0528336912, z: -.51096034, w: .856819332}
+      scale: {x: 1.00001645, y: .99998349, z: 1.00000024}
+      transformModified: 1
+    - name: Sitter L Toe0
+      position: {x: -.0569094531, y: -.00266258465, z: -1.868248e-05}
+      rotation: {x: 4.27837149e-05, y: -.000128808548, z: -.313871711, w: .949465334}
+      scale: {x: 1.00000739, y: .999992549, z: .99999994}
+      transformModified: 1
+    - name: Sitter L Toe01
+      position: {x: -.00509728398, y: 0, z: 0}
+      rotation: {x: -.000116123541, y: -2.57458993e-07, z: -1.4931322e-08, w: .99999994}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Sitter L Toe02
+      position: {x: -.00509728165, y: 0, z: 0}
+      rotation: {x: 1.12310443e-06, y: 1.43073948e-05, z: -1.61558646e-07, w: .99999994}
+      scale: {x: 1.00000012, y: 1, z: 1}
+      transformModified: 1
+    - name: Sitter R Thigh
+      position: {x: 3.81469718e-08, y: 6.02751982e-08, z: -.0321938135}
+      rotation: {x: -.0353646427, y: .997228503, z: -.0653157383, w: -.0042847693}
+      scale: {x: 1, y: 1.00000012, z: .999999762}
+      transformModified: 1
+    - name: Sitter R Calf
+      position: {x: -.160969108, y: 8.58306848e-08, z: -1.90734859e-08}
+      rotation: {x: -.00499052228, y: .0480549522, z: .102106579, w: .993599534}
+      scale: {x: 1, y: .999999404, z: 1.00000095}
+      transformModified: 1
+    - name: Sitter R Foot
+      position: {x: -.165372312, y: -3.57627861e-09, z: 0}
+      rotation: {x: -.0345369987, y: -.0686521754, z: -.509581685, w: .856983185}
+      scale: {x: .999999821, y: 1.00000012, z: 1.00000012}
+      transformModified: 1
+    - name: Sitter R Toe0
+      position: {x: -.0569100901, y: -.00266255601, z: 1.86777106e-05}
+      rotation: {x: -4.28164931e-05, y: .000128546177, z: -.313866884, w: .949466944}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Sitter R Toe01
+      position: {x: -.00509728678, y: 0, z: 0}
+      rotation: {x: .000116098643, y: 1.78870238e-07, z: -1.81065207e-09, w: .99999994}
+      scale: {x: 1, y: 1, z: .99999994}
+      transformModified: 1
+    - name: Sitter R Toe02
+      position: {x: -.00509728398, y: 0, z: 0}
+      rotation: {x: -1.15962882e-06, y: -1.44143287e-05, z: -9.26687562e-08, w: .99999994}
+      scale: {x: .99999994, y: .99999994, z: .99999994}
+      transformModified: 1
+    - name: Sitter Spine1
+      position: {x: -.0210937876, y: -3.32983291e-05, z: 7.83801042e-08}
+      rotation: {x: -1.55661724e-07, y: -.0172667764, z: 1.85856425e-05, w: .999850869}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Sitter Spine2
+      position: {x: -.0318074785, y: 0, z: 0}
+      rotation: {x: 8.76934621e-07, y: -.00721711339, z: -3.0763651e-05, w: .999973893}
+      scale: {x: .999999881, y: 1, z: 1}
+      transformModified: 1
+    - name: Sitter Spine3
+      position: {x: -.0311658476, y: 0, z: 2.38418574e-09}
+      rotation: {x: -1.24997578e-05, y: .0231631473, z: -.000385881722, w: .9997316}
+      scale: {x: 1.00000012, y: 1, z: 1.00000012}
+      transformModified: 1
+    - name: Sitter Spine4
+      position: {x: -.031178588, y: 0, z: -3.72529022e-11}
+      rotation: {x: -2.38425542e-07, y: .00132035965, z: 2.56600019e-10, w: .999999106}
+      scale: {x: 1, y: .999999821, z: .999999702}
+      transformModified: 1
+    - name: Sitter L Clavicle
+      position: {x: -.043523483, y: -3.3462642e-05, z: .0112678325}
+      rotation: {x: 1.90928517e-06, y: .707106769, z: -1.90928517e-06, w: .707106769}
+      scale: {x: .999999881, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Sitter L UpperArm
+      position: {x: -.0541504174, y: 0, z: 0}
+      rotation: {x: .474931896, y: .0138193974, z: .0381428637, w: .879086852}
+      scale: {x: 1, y: .999999762, z: .999999821}
+      transformModified: 1
+    - name: Sitter L Forearm
+      position: {x: -.110905789, y: 3.81469718e-08, z: -1.90734859e-08}
+      rotation: {x: -.17884925, y: -.019965196, z: -.0726521462, w: .980987191}
+      scale: {x: .999996841, y: 1, z: 1.00000346}
+      transformModified: 1
+    - name: Sitter L Hand
+      position: {x: -.0843048468, y: 0, z: 3.81469718e-08}
+      rotation: {x: .894260824, y: -.0227879323, z: -.019049488, w: -.446559399}
+      scale: {x: .999990404, y: 1.00000799, z: 1.00000143}
+      transformModified: 1
+    - name: Sitter L Finger0
+      position: {x: -.0213474073, y: -.00351177203, z: .0127784675}
+      rotation: {x: .942817032, y: .051091142, z: -.329294056, w: .00714564091}
+      scale: {x: .999986529, y: 1.00000107, z: 1.00001228}
+      transformModified: 1
+    - name: Sitter L Finger2
+      position: {x: -.0103674885, y: -3.81469718e-08, z: 0}
+      rotation: {x: -.00137079577, y: .0394186452, z: .00304549816, w: .999217153}
+      scale: {x: .999990404, y: 1, z: 1.00000978}
+      transformModified: 1
+    - name: Sitter L Finger3
+      position: {x: -.0108327959, y: -3.81469718e-08, z: 0}
+      rotation: {x: .000240654816, y: -.221134931, z: -.00201311707, w: .975241065}
+      scale: {x: .999981642, y: 1, z: 1.00001824}
+      transformModified: 1
+    - name: Sitter LDigit21
+      position: {x: -.0437969752, y: .00113380433, z: .00822408777}
+      rotation: {x: 9.05307047e-08, y: -1.27335547e-08, z: .0705894753, w: .997505426}
+      scale: {x: .999989927, y: 1.00001061, z: .999999464}
+      transformModified: 1
+    - name: Sitter LDigit22
+      position: {x: -.0134411808, y: -3.81469718e-08, z: 0}
+      rotation: {x: 2.38575922e-07, y: 2.05864879e-07, z: .0307612885, w: .99952668}
+      scale: {x: .99998045, y: 1.0000205, z: .999999285}
+      transformModified: 1
+    - name: Sitter LDigit23
+      position: {x: -.00810100511, y: 0, z: -1.7881393e-09}
+      rotation: {x: 1.74475616e-08, y: -3.02548671e-08, z: .237040937, w: .971499622}
+      scale: {x: .999977052, y: 1.00002325, z: .999999285}
+      transformModified: 1
+    - name: Sitter LDigit31
+      position: {x: -.0439924598, y: .00067756651, z: .000705176557}
+      rotation: {x: -.00438685296, y: -.015320804, z: .069261238, w: .997471213}
+      scale: {x: .999987483, y: 1.00001276, z: .999999523}
+      transformModified: 1
+    - name: Sitter LDigit32
+      position: {x: -.0171264075, y: 3.81469718e-08, z: 0}
+      rotation: {x: .00498559838, y: .00647935877, z: .037148267, w: .99927628}
+      scale: {x: .999985874, y: 1.0000149, z: .999999881}
+      transformModified: 1
+    - name: Sitter LDigit33
+      position: {x: -.00956794713, y: 0, z: 5.96046434e-10}
+      rotation: {x: -.00702820206, y: -.0307600908, z: .218508139, w: .97532481}
+      scale: {x: .999974728, y: 1.00002527, z: 1.0000006}
+      transformModified: 1
+    - name: Sitter LDigit41
+      position: {x: -.0439358316, y: .000809745747, z: -.0108126355}
+      rotation: {x: -.000364503881, y: .0029990396, z: .0729247406, w: .997332811}
+      scale: {x: .999988914, y: 1.00001121, z: .999999344}
+      transformModified: 1
+    - name: Sitter LDigit42
+      position: {x: -.0144221298, y: 0, z: -1.19209287e-09}
+      rotation: {x: 1.09290887e-07, y: 1.3457111e-07, z: .0316863991, w: .999497831}
+      scale: {x: .999982059, y: 1.00001884, z: .999999404}
+      transformModified: 1
+    - name: Sitter LDigit43
+      position: {x: -.00679607363, y: -3.81469718e-08, z: 0}
+      rotation: {x: 3.14865889e-09, y: -2.91845792e-09, z: .114447884, w: .993429244}
+      scale: {x: .99999696, y: 1.00000322, z: 1.00000012}
+      transformModified: 1
+    - name: Sitter LDigit51
+      position: {x: -.0442827977, y: -3.81469718e-08, z: -.0159290712}
+      rotation: {x: -.0148514053, y: -.0058037471, z: .0618774556, w: .997956336}
+      scale: {x: .999982834, y: 1.00001752, z: .999999523}
+      transformModified: 1
+    - name: Sitter LDigit52
+      position: {x: -.00968883466, y: 0, z: -5.96046434e-10}
+      rotation: {x: 3.37107977e-08, y: -1.06095461e-08, z: .0168473609, w: .999858022}
+      scale: {x: .999990344, y: 1.00001013, z: .999999344}
+      transformModified: 1
+    - name: Sitter LDigit53
+      position: {x: -.00525077805, y: 0, z: 0}
+      rotation: {x: -5.04142612e-08, y: 9.98948835e-09, z: .164798111, w: .986327291}
+      scale: {x: .999984026, y: 1.00001693, z: .999999404}
+      transformModified: 1
+    - name: Sitter Neck1
+      position: {x: -.0435235202, y: -5.2657535e-05, z: 1.71363346e-09}
+      rotation: {x: -1.04375153e-09, y: 2.72582338e-06, z: .00367346406, w: .999993205}
+      scale: {x: 1.00000012, y: 1.00000036, z: 1}
+      transformModified: 1
+    - name: Sitter Neck2
+      position: {x: -.021049384, y: 0, z: 0}
+      rotation: {x: -3.89517538e-08, y: -5.65853043e-06, z: .00963726174, w: .999953508}
+      scale: {x: .999999821, y: .99999994, z: 1.00000024}
+      transformModified: 1
+    - name: Sitter Head
+      position: {x: -.021049384, y: 1.19209287e-09, z: 0}
+      rotation: {x: 4.96592598e-08, y: -5.32275862e-06, z: .000711468048, w: .999999702}
+      scale: {x: 1.00000012, y: 1, z: .999999881}
+      transformModified: 1
+    - name: SitterJaw
+      position: {x: .000662879902, y: .00855249632, z: -1.57207243e-08}
+      rotation: {x: .00114170008, y: -.00143965019, z: -.73797071, w: .674830139}
+      scale: {x: .99999994, y: .999999881, z: 1.00000012}
+      transformModified: 1
+    - name: Sitter R Clavicle
+      position: {x: -.043523483, y: -3.34626784e-05, z: -.0112678288}
+      rotation: {x: -1.85446106e-06, y: -.707106769, z: -1.85446106e-06, w: .707106769}
+      scale: {x: .99999994, y: 1.00000012, z: 1}
+      transformModified: 1
+    - name: Sitter R UpperArm
+      position: {x: -.0541504286, y: 0, z: 0}
+      rotation: {x: -.03278061, y: -.00282441988, z: .0401368551, w: .998652279}
+      scale: {x: 1.00000012, y: .999999583, z: .999999762}
+      transformModified: 1
+    - name: Sitter R Forearm
+      position: {x: -.110905781, y: 0, z: -3.81469718e-08}
+      rotation: {x: .0475512631, y: .00191181374, z: -.0792458281, w: .99571842}
+      scale: {x: .999996722, y: 1.00000048, z: 1.00000322}
+      transformModified: 1
+    - name: Sitter R Hand
+      position: {x: -.0843048245, y: 2.38418574e-09, z: 0}
+      rotation: {x: .74901545, y: -.013896456, z: .0716956034, w: .658515215}
+      scale: {x: 1.00000918, y: .999986768, z: 1.00000322}
+      transformModified: 1
+    - name: Sitter R Finger0
+      position: {x: -.02134737, y: -.0035120009, z: -.0127782105}
+      rotation: {x: .917284131, y: .031607002, z: .340323746, w: .204378441}
+      scale: {x: 1.00001037, y: .999996066, z: .999991894}
+      transformModified: 1
+    - name: Sitter R Finger2
+      position: {x: -.0103675267, y: 0, z: 1.90734859e-08}
+      rotation: {x: .0011500424, y: -.0409196205, z: .00556697091, w: .999146223}
+      scale: {x: 1.0000087, y: .999999583, z: .999990582}
+      transformModified: 1
+    - name: Sitter R Finger3
+      position: {x: -.0108327866, y: 3.81469718e-08, z: 0}
+      rotation: {x: -.000214155894, y: .232058674, z: -.00199935911, w: .972699702}
+      scale: {x: 1.00001645, y: .999999821, z: .999983251}
+      transformModified: 1
+    - name: Sitter RDigit21
+      position: {x: -.0437969565, y: .00113384239, z: -.00822394341}
+      rotation: {x: 3.73972142e-08, y: -1.77043058e-09, z: .0523368306, w: .998629451}
+      scale: {x: 1.00000918, y: .999989212, z: 1.00000036}
+      transformModified: 1
+    - name: Sitter RDigit22
+      position: {x: -.0134412004, y: 0, z: 0}
+      rotation: {x: -1.30161027e-07, y: -3.83135301e-07, z: .0284886826, w: .999594092}
+      scale: {x: 1.00002062, y: .999978364, z: 1.00000036}
+      transformModified: 1
+    - name: Sitter RDigit23
+      position: {x: -.00810100511, y: 0, z: 4.76837148e-09}
+      rotation: {x: 1.53171612e-07, y: 4.07642347e-08, z: .211474225, w: .977383494}
+      scale: {x: 1.00001872, y: .999979913, z: 1.00000024}
+      transformModified: 1
+    - name: Sitter RDigit31
+      position: {x: -.0439924225, y: .000677604636, z: -.000705165847}
+      rotation: {x: 1.65190883e-07, y: .0318287127, z: -.00468387222, w: .999482334}
+      scale: {x: 1.00001025, y: .999988079, z: .99999994}
+      transformModified: 1
+    - name: Sitter RDigit32
+      position: {x: -.0171263497, y: 3.81469718e-08, z: 0}
+      rotation: {x: -.0405082703, y: .00208200119, z: .0266789105, w: .998820782}
+      scale: {x: 1.0000267, y: .999972343, z: 1.00000012}
+      transformModified: 1
+    - name: Sitter RDigit33
+      position: {x: -.00956794713, y: 0, z: 2.38418574e-09}
+      rotation: {x: .00702651776, y: .0307612065, z: .218533009, w: .975319207}
+      scale: {x: 1.00002384, y: .999975801, z: .999999642}
+      transformModified: 1
+    - name: Sitter RDigit41
+      position: {x: -.0439357944, y: .000809783931, z: .0108124539}
+      rotation: {x: 7.79832844e-05, y: -.000912821793, z: .0745464787, w: .997217059}
+      scale: {x: 1.00000942, y: .999988973, z: 1.00000036}
+      transformModified: 1
+    - name: Sitter RDigit42
+      position: {x: -.0144221783, y: 0, z: 0}
+      rotation: {x: .0172763467, y: .00145960378, z: .034929309, w: .999239326}
+      scale: {x: 1.00001323, y: .999985218, z: 1.00000024}
+      transformModified: 1
+    - name: Sitter RDigit43
+      position: {x: -.00679605454, y: 0, z: -9.53674295e-09}
+      rotation: {x: 1.0555182e-07, y: -3.09921191e-08, z: .206828415, w: .978377163}
+      scale: {x: 1.00001836, y: .99998033, z: 1.00000048}
+      transformModified: 1
+    - name: Sitter RDigit51
+      position: {x: -.0442827605, y: 0, z: .0159287974}
+      rotation: {x: .0168846026, y: .00442547118, z: .0612404086, w: .997970343}
+      scale: {x: 1.00001538, y: .999982834, z: 1.00000012}
+      transformModified: 1
+    - name: Sitter RDigit52
+      position: {x: -.00968887284, y: 3.81469718e-08, z: -4.76837148e-09}
+      rotation: {x: -1.67784169e-08, y: 5.64613281e-08, z: -.032895226, w: .99945873}
+      scale: {x: 1.00000918, y: .99998945, z: 1.00000024}
+      transformModified: 1
+    - name: Sitter RDigit53
+      position: {x: -.00525075896, y: -3.81469718e-08, z: 0}
+      rotation: {x: 6.9808948e-08, y: 2.29958186e-08, z: .164815992, w: .986324251}
+      scale: {x: 1.00001502, y: .999983668, z: 1.00000024}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  userData: 

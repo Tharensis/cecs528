@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DiceGames/Dice/scenes/Demo/demo.unity
+  isLoaded: 1
+  isActive: 1
