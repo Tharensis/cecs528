@@ -63,9 +63,6 @@ public class ChangeMaterials : MonoBehaviour
 			{
 				dropdowns [i].options.Add (new Dropdown.OptionData () { text = item.ToString () });
 			}
-			/*dropdowns [i].onValueChanged.AddListener (delegate {
-					updateMaterial (i);
-				});*/
 		}
 
 		addListeners ();

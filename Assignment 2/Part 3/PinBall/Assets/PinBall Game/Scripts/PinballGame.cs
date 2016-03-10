@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.UI;
 using System.Collections;
 
 public enum PinballGameState {playing, won, lost};
@@ -11,13 +12,31 @@ public class PinballGame : MonoBehaviour
 	
 	private int score;
     private PinballGameState gameState;
+    private bool paused = false;
+    private GameObject pauseMenu;
+
+    private int numObjects;
 
     void Awake()
     {
+    	// Save pause menu object and hide
+		pauseMenu = GameObject.Find ("Pause Panel");
+		pauseMenu.SetActive(false);
+
+		numObjects = GameObject.FindGameObjectsWithTag ("Bumper").Length;
+
         SP = this;
         gameState = PinballGameState.playing;
         Time.timeScale = 1.0f;
         SpawnBall();
+    }
+
+    void Update()
+    {
+    	if(Input.GetKeyDown(KeyCode.Escape))
+    	{
+			PauseToggle ();
+    	}
     }
 
     void SpawnBall()
@@ -74,5 +93,28 @@ public class PinballGame : MonoBehaviour
     {
         Time.timeScale = 0.0f; //Pause game
         gameState = PinballGameState.lost;
+    }
+
+    public void PauseToggle ()
+	{
+		if (!paused) {
+				Time.timeScale = 0.0f;
+				paused = !paused;
+						pauseMenu.SetActive (true);
+		} else {
+				Time.timeScale = 1.0f;
+				paused = !paused;
+						pauseMenu.SetActive (false);
+		}
+    }
+
+    public void DestroyedObject()
+    {
+		numObjects--;
+		score += 100;
+		if(numObjects <= 0)
+		{
+			WonGame ();
+		}
     }
 }

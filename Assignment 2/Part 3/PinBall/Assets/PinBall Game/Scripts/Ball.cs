@@ -4,7 +4,7 @@ using System.Collections;
 public class Ball : MonoBehaviour 
 {
 
-    public float maxVelocity = 20;
+    public float maxVelocity = 1000;
     public float minVelocity = 15;
 
 	void Awake () 

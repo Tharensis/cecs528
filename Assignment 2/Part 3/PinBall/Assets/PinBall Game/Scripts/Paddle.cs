@@ -3,7 +3,7 @@ using System.Collections;
 
 public class Paddle : MonoBehaviour 
 {
-
+	public AudioClip hitSound;
     public float moveSpeed = 15;
 		
 	void Update () 
@@ -25,5 +25,8 @@ public class Paddle : MonoBehaviour
         Rigidbody rigid = collisionInfo.rigidbody;
         float xDistance = rigid.position.x - transform.position.x;
         rigid.velocity = new Vector3(rigid.velocity.x + xDistance/2, rigid.velocity.y, rigid.velocity.z);
+
+        // Play sound
+		GetComponent<AudioSource>().PlayOneShot (hitSound);
     }
 }
