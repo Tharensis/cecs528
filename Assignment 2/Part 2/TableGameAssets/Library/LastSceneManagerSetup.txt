@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/_scenes/Student Scenes/Dice.unity
+- path: Assets/_scenes/Student Scenes/Cards.unity
   isLoaded: 1
   isActive: 1
