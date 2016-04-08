@@ -1,0 +1,1530 @@
+fileFormatVersion: 2
+guid: de53e6fe53ab3a947accb20469222ce8
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Walking Man
+    100002: Walking ManHead
+    100004: Walking ManHeadBone001
+    100006: Walking ManLCalf
+    100008: Walking ManLCollarbone
+    100010: Walking ManLDigit11
+    100012: Walking ManLDigit12
+    100014: Walking ManLDigit13
+    100016: Walking ManLDigit21
+    100018: Walking ManLDigit22
+    100020: Walking ManLDigit23
+    100022: Walking ManLDigit31
+    100024: Walking ManLDigit32
+    100026: Walking ManLDigit33
+    100028: Walking ManLDigit41
+    100030: Walking ManLDigit42
+    100032: Walking ManLDigit43
+    100034: Walking ManLDigit51
+    100036: Walking ManLDigit52
+    100038: Walking ManLDigit53
+    100040: Walking ManLFoot
+    100042: Walking ManLForearm
+    100044: Walking ManLPalm
+    100046: Walking ManLPlatform
+    100048: Walking ManLThigh
+    100050: Walking ManLUpperarm
+    100052: Walking ManNeck1
+    100054: Walking ManNeck2
+    100056: Walking ManPelvis
+    100058: Walking ManRCalf
+    100060: Walking ManRCollarbone
+    100062: Walking ManRDigit11
+    100064: Walking ManRDigit12
+    100066: Walking ManRDigit13
+    100068: Walking ManRDigit21
+    100070: Walking ManRDigit22
+    100072: Walking ManRDigit23
+    100074: Walking ManRDigit31
+    100076: Walking ManRDigit32
+    100078: Walking ManRDigit33
+    100080: Walking ManRDigit41
+    100082: Walking ManRDigit42
+    100084: Walking ManRDigit43
+    100086: Walking ManRDigit51
+    100088: Walking ManRDigit52
+    100090: Walking ManRDigit53
+    100092: Walking ManRFoot
+    100094: Walking ManRForearm
+    100096: Walking ManRibcage
+    100098: Walking ManRPalm
+    100100: Walking ManRPlatform
+    100102: Walking ManRThigh
+    100104: Walking ManRUpperarm
+    100106: Walking ManSpine1
+    100108: Walking ManSpine2
+    100110: Walking ManSpine3
+    100112: Walking ManSpine4
+    100114: //RootNode
+    400000: Walking Man
+    400002: Walking ManHead
+    400004: Walking ManHeadBone001
+    400006: Walking ManLCalf
+    400008: Walking ManLCollarbone
+    400010: Walking ManLDigit11
+    400012: Walking ManLDigit12
+    400014: Walking ManLDigit13
+    400016: Walking ManLDigit21
+    400018: Walking ManLDigit22
+    400020: Walking ManLDigit23
+    400022: Walking ManLDigit31
+    400024: Walking ManLDigit32
+    400026: Walking ManLDigit33
+    400028: Walking ManLDigit41
+    400030: Walking ManLDigit42
+    400032: Walking ManLDigit43
+    400034: Walking ManLDigit51
+    400036: Walking ManLDigit52
+    400038: Walking ManLDigit53
+    400040: Walking ManLFoot
+    400042: Walking ManLForearm
+    400044: Walking ManLPalm
+    400046: Walking ManLPlatform
+    400048: Walking ManLThigh
+    400050: Walking ManLUpperarm
+    400052: Walking ManNeck1
+    400054: Walking ManNeck2
+    400056: Walking ManPelvis
+    400058: Walking ManRCalf
+    400060: Walking ManRCollarbone
+    400062: Walking ManRDigit11
+    400064: Walking ManRDigit12
+    400066: Walking ManRDigit13
+    400068: Walking ManRDigit21
+    400070: Walking ManRDigit22
+    400072: Walking ManRDigit23
+    400074: Walking ManRDigit31
+    400076: Walking ManRDigit32
+    400078: Walking ManRDigit33
+    400080: Walking ManRDigit41
+    400082: Walking ManRDigit42
+    400084: Walking ManRDigit43
+    400086: Walking ManRDigit51
+    400088: Walking ManRDigit52
+    400090: Walking ManRDigit53
+    400092: Walking ManRFoot
+    400094: Walking ManRForearm
+    400096: Walking ManRibcage
+    400098: Walking ManRPalm
+    400100: Walking ManRPlatform
+    400102: Walking ManRThigh
+    400104: Walking ManRUpperarm
+    400106: Walking ManSpine1
+    400108: Walking ManSpine2
+    400110: Walking ManSpine3
+    400112: Walking ManSpine4
+    400114: //RootNode
+    2300000: Walking ManHead
+    2300002: Walking ManHeadBone001
+    2300004: Walking ManLCalf
+    2300006: Walking ManLCollarbone
+    2300008: Walking ManLDigit11
+    2300010: Walking ManLDigit12
+    2300012: Walking ManLDigit13
+    2300014: Walking ManLDigit21
+    2300016: Walking ManLDigit22
+    2300018: Walking ManLDigit23
+    2300020: Walking ManLDigit31
+    2300022: Walking ManLDigit32
+    2300024: Walking ManLDigit33
+    2300026: Walking ManLDigit41
+    2300028: Walking ManLDigit42
+    2300030: Walking ManLDigit43
+    2300032: Walking ManLDigit51
+    2300034: Walking ManLDigit52
+    2300036: Walking ManLDigit53
+    2300038: Walking ManLFoot
+    2300040: Walking ManLForearm
+    2300042: Walking ManLPalm
+    2300044: Walking ManLThigh
+    2300046: Walking ManLUpperarm
+    2300048: Walking ManNeck1
+    2300050: Walking ManNeck2
+    2300052: Walking ManPelvis
+    2300054: Walking ManRCalf
+    2300056: Walking ManRCollarbone
+    2300058: Walking ManRDigit11
+    2300060: Walking ManRDigit12
+    2300062: Walking ManRDigit13
+    2300064: Walking ManRDigit21
+    2300066: Walking ManRDigit22
+    2300068: Walking ManRDigit23
+    2300070: Walking ManRDigit31
+    2300072: Walking ManRDigit32
+    2300074: Walking ManRDigit33
+    2300076: Walking ManRDigit41
+    2300078: Walking ManRDigit42
+    2300080: Walking ManRDigit43
+    2300082: Walking ManRDigit51
+    2300084: Walking ManRDigit52
+    2300086: Walking ManRDigit53
+    2300088: Walking ManRFoot
+    2300090: Walking ManRForearm
+    2300092: Walking ManRibcage
+    2300094: Walking ManRPalm
+    2300096: Walking ManRThigh
+    2300098: Walking ManRUpperarm
+    2300100: Walking ManSpine1
+    2300102: Walking ManSpine2
+    2300104: Walking ManSpine3
+    2300106: Walking ManSpine4
+    3300000: Walking ManHead
+    3300002: Walking ManHeadBone001
+    3300004: Walking ManLCalf
+    3300006: Walking ManLCollarbone
+    3300008: Walking ManLDigit11
+    3300010: Walking ManLDigit12
+    3300012: Walking ManLDigit13
+    3300014: Walking ManLDigit21
+    3300016: Walking ManLDigit22
+    3300018: Walking ManLDigit23
+    3300020: Walking ManLDigit31
+    3300022: Walking ManLDigit32
+    3300024: Walking ManLDigit33
+    3300026: Walking ManLDigit41
+    3300028: Walking ManLDigit42
+    3300030: Walking ManLDigit43
+    3300032: Walking ManLDigit51
+    3300034: Walking ManLDigit52
+    3300036: Walking ManLDigit53
+    3300038: Walking ManLFoot
+    3300040: Walking ManLForearm
+    3300042: Walking ManLPalm
+    3300044: Walking ManLThigh
+    3300046: Walking ManLUpperarm
+    3300048: Walking ManNeck1
+    3300050: Walking ManNeck2
+    3300052: Walking ManPelvis
+    3300054: Walking ManRCalf
+    3300056: Walking ManRCollarbone
+    3300058: Walking ManRDigit11
+    3300060: Walking ManRDigit12
+    3300062: Walking ManRDigit13
+    3300064: Walking ManRDigit21
+    3300066: Walking ManRDigit22
+    3300068: Walking ManRDigit23
+    3300070: Walking ManRDigit31
+    3300072: Walking ManRDigit32
+    3300074: Walking ManRDigit33
+    3300076: Walking ManRDigit41
+    3300078: Walking ManRDigit42
+    3300080: Walking ManRDigit43
+    3300082: Walking ManRDigit51
+    3300084: Walking ManRDigit52
+    3300086: Walking ManRDigit53
+    3300088: Walking ManRFoot
+    3300090: Walking ManRForearm
+    3300092: Walking ManRibcage
+    3300094: Walking ManRPalm
+    3300096: Walking ManRThigh
+    3300098: Walking ManRUpperarm
+    3300100: Walking ManSpine1
+    3300102: Walking ManSpine2
+    3300104: Walking ManSpine3
+    3300106: Walking ManSpine4
+    4300000: Walking ManPelvis
+    4300002: Walking ManLThigh
+    4300004: Walking ManLCalf
+    4300006: Walking ManLFoot
+    4300008: Walking ManRThigh
+    4300010: Walking ManRCalf
+    4300012: Walking ManRFoot
+    4300014: Walking ManSpine1
+    4300016: Walking ManSpine2
+    4300018: Walking ManSpine3
+    4300020: Walking ManSpine4
+    4300022: Walking ManRibcage
+    4300024: Walking ManLCollarbone
+    4300026: Walking ManLUpperarm
+    4300028: Walking ManLForearm
+    4300030: Walking ManLPalm
+    4300032: Walking ManLDigit11
+    4300034: Walking ManLDigit12
+    4300036: Walking ManLDigit13
+    4300038: Walking ManLDigit21
+    4300040: Walking ManLDigit22
+    4300042: Walking ManLDigit23
+    4300044: Walking ManLDigit31
+    4300046: Walking ManLDigit32
+    4300048: Walking ManLDigit33
+    4300050: Walking ManLDigit41
+    4300052: Walking ManLDigit42
+    4300054: Walking ManLDigit43
+    4300056: Walking ManLDigit51
+    4300058: Walking ManLDigit52
+    4300060: Walking ManLDigit53
+    4300062: Walking ManRCollarbone
+    4300064: Walking ManRUpperarm
+    4300066: Walking ManRForearm
+    4300068: Walking ManRPalm
+    4300070: Walking ManRDigit11
+    4300072: Walking ManRDigit12
+    4300074: Walking ManRDigit13
+    4300076: Walking ManRDigit21
+    4300078: Walking ManRDigit22
+    4300080: Walking ManRDigit23
+    4300082: Walking ManRDigit31
+    4300084: Walking ManRDigit32
+    4300086: Walking ManRDigit33
+    4300088: Walking ManRDigit41
+    4300090: Walking ManRDigit42
+    4300092: Walking ManRDigit43
+    4300094: Walking ManRDigit51
+    4300096: Walking ManRDigit52
+    4300098: Walking ManRDigit53
+    4300100: Walking ManNeck1
+    4300102: Walking ManNeck2
+    4300104: Walking ManHead
+    4300106: Walking ManHeadBone001
+    7400000: W_Walk
+    7400002: W_Idle
+    7400004: W_Talk
+    7400006: W_Walk In Place
+    7400008: W_Turn In Place
+    7400010: W_Wave
+    7400012: W_Head Turn Left
+    7400014: W_Head Turn Right
+    7400016: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nDefault bone length found in this file is different
+      form the one found in the source avatar:\n\t'Walking ManLUpperarm' : position
+      error = 10.484188 mm\n\t'Walking ManRUpperarm' : position error = 10.484096
+      mm\n\nInbetween bone default rotation found in this file is different from the
+      one found in the source avatar:\n\t'Walking ManSpine1' : rotation error = 2.831523
+      deg\n\t'Walking ManSpine4' : rotation error = 2.909743 deg\n\t'Walking ManRibcage'
+      : rotation error = 2.417819 deg\n\nClip 'Take 001' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Walking ManLFoot' has scale animation that
+      will be discarded.\n\t'Walking ManRFoot' has scale animation that will be discarded.\n\t'Walking
+      ManSpine1' is inbetween humanoid transforms and has rotation animation that
+      will be discarded.\n\t'Walking ManSpine4' is inbetween humanoid transforms and
+      has rotation animation that will be discarded.\n\t'Walking ManRibcage' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Walking
+      ManLPalm' has scale animation that will be discarded.\n\t'Walking ManLDigit11'
+      has scale animation that will be discarded.\n\t'Walking ManLDigit12' has scale
+      animation that will be discarded.\n\t'Walking ManLDigit13' has scale animation
+      that will be discarded.\n\t'Walking ManLDigit21' has scale animation that will
+      be discarded.\n\t'Walking ManLDigit22' has scale animation that will be discarded.\n\t'Walking
+      ManLDigit23' has scale animation that will be discarded.\n\t'Walking ManLDigit31'
+      has scale animation that will be discarded.\n\t'Walking ManLDigit32' has scale
+      animation that will be discarded.\n\t'Walking ManLDigit33' has scale animation
+      that will be discarded.\n\t'Walking ManLDigit41' has scale animation that will
+      be discarded.\n\t'Walking ManLDigit42' has scale animation that will be discarded.\n\t'Walking
+      ManLDigit43' has scale animation that will be discarded.\n\t'Walking ManLDigit51'
+      has scale animation that will be discarded.\n\t'Walking ManLDigit52' has scale
+      animation that will be discarded.\n\t'Walking ManLDigit53' has scale animation
+      that will be discarded.\n\t'Walking ManRPalm' has scale animation that will
+      be discarded.\n\t'Walking ManRDigit11' has scale animation that will be discarded.\n\t'Walking
+      ManRDigit12' has scale animation that will be discarded.\n\t'Walking ManRDigit13'
+      has scale animation that will be discarded.\n\t'Walking ManRDigit21' has scale
+      animation that will be discarded.\n\t'Walking ManRDigit22' has scale animation
+      that will be discarded.\n\t'Walking ManRDigit23' has scale animation that will
+      be discarded.\n\t'Walking ManRDigit31' has scale animation that will be discarded.\n\t'Walking
+      ManRDigit32' has scale animation that will be discarded.\n\t'Walking ManRDigit33'
+      has scale animation that will be discarded.\n\t'Walking ManRDigit41' has scale
+      animation that will be discarded.\n\t'Walking ManRDigit42' has scale animation
+      that will be discarded.\n\t'Walking ManRDigit43' has scale animation that will
+      be discarded.\n\t'Walking ManRDigit51' has scale animation that will be discarded.\n\t'Walking
+      ManRDigit52' has scale animation that will be discarded.\n\t'Walking ManRDigit53'
+      has scale animation that will be discarded.\n\t'Walking ManNeck2' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: W_Walk
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: W_Idle
+      takeName: Take 001
+      firstFrame: 145
+      lastFrame: 240
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: W_Talk
+      takeName: Take 001
+      firstFrame: 541
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: W_Walk In Place
+      takeName: Take 001
+      firstFrame: 316
+      lastFrame: 385
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: W_Turn In Place
+      takeName: Take 001
+      firstFrame: 401
+      lastFrame: 539
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: W_Wave
+      takeName: Take 001
+      firstFrame: 601
+      lastFrame: 650
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: W_Head Turn Left
+      takeName: Take 001
+      firstFrame: 246
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: W_Head Turn Right
+      takeName: Take 001
+      firstFrame: 246
+      lastFrame: 270
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 1
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 650
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Walking Man
+        weight: 0
+      - path: Walking ManLPlatform
+        weight: 0
+      - path: Walking ManPelvis
+        weight: 1
+      - path: Walking ManPelvis/Walking ManLThigh
+        weight: 1
+      - path: Walking ManPelvis/Walking ManLThigh/Walking ManLCalf
+        weight: 1
+      - path: Walking ManPelvis/Walking ManLThigh/Walking ManLCalf/Walking ManLFoot
+        weight: 1
+      - path: Walking ManPelvis/Walking ManRThigh
+        weight: 1
+      - path: Walking ManPelvis/Walking ManRThigh/Walking ManRCalf
+        weight: 1
+      - path: Walking ManPelvis/Walking ManRThigh/Walking ManRCalf/Walking ManRFoot
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit11
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit11/Walking ManLDigit12
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit11/Walking ManLDigit12/Walking
+          ManLDigit13
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit21
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit21/Walking ManLDigit22
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit21/Walking ManLDigit22/Walking
+          ManLDigit23
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit31
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit31/Walking ManLDigit32
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit31/Walking ManLDigit32/Walking
+          ManLDigit33
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit41
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit41/Walking ManLDigit42
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit41/Walking ManLDigit42/Walking
+          ManLDigit43
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit51
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit51/Walking ManLDigit52
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManLCollarbone/Walking ManLUpperarm/Walking
+          ManLForearm/Walking ManLPalm/Walking ManLDigit51/Walking ManLDigit52/Walking
+          ManLDigit53
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManNeck1
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManNeck1/Walking ManNeck2
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManNeck1/Walking ManNeck2/Walking ManHead
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManNeck1/Walking ManNeck2/Walking ManHead/Walking
+          ManHeadBone001
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit11
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit11/Walking ManRDigit12
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit11/Walking ManRDigit12/Walking
+          ManRDigit13
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit21
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit21/Walking ManRDigit22
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit21/Walking ManRDigit22/Walking
+          ManRDigit23
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit31
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit31/Walking ManRDigit32
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit31/Walking ManRDigit32/Walking
+          ManRDigit33
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit41
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit41/Walking ManRDigit42
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit41/Walking ManRDigit42/Walking
+          ManRDigit43
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit51
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit51/Walking ManRDigit52
+        weight: 1
+      - path: Walking ManPelvis/Walking ManSpine1/Walking ManSpine2/Walking ManSpine3/Walking
+          ManSpine4/Walking ManRibcage/Walking ManRCollarbone/Walking ManRUpperarm/Walking
+          ManRForearm/Walking ManRPalm/Walking ManRDigit51/Walking ManRDigit52/Walking
+          ManRDigit53
+        weight: 1
+      - path: Walking ManRPlatform
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.03
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: Walking ManPelvis
+      humanName: Hips
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.13800995, y: 0, z: 0.069004975}
+        length: 0.17251252
+        modified: 1
+    - boneName: Walking ManLThigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: -60.000004, y: -60.000004, z: -90}
+        max: {x: 60.000004, y: 60.000004, z: 50}
+        value: {x: 0.41040224, y: 0, z: 0.20520112}
+        length: 0.51300293
+        modified: 1
+    - boneName: Walking ManRThigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: -60.000004, y: -60.000004, z: -90}
+        max: {x: 60.000004, y: 60.000004, z: 50}
+        value: {x: 0.4104021, y: 0, z: 0.20520104}
+        length: 0.51300275
+        modified: 1
+    - boneName: Walking ManLCalf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.43103912, y: 0, z: 0.21551956}
+        length: 0.53879905
+        modified: 1
+    - boneName: Walking ManRCalf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.43103874, y: 0, z: 0.21551937}
+        length: 0.5387986
+        modified: 1
+    - boneName: Walking ManLFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: -30.000002, z: -50}
+        max: {x: 0, y: 30.000002, z: 50}
+        value: {x: 0.029932301, y: 0, z: 0.014966151}
+        length: 0.037415385
+        modified: 1
+    - boneName: Walking ManRFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: -30.000002, z: -50}
+        max: {x: 0, y: 30.000002, z: 50}
+        value: {x: 0.029467052, y: 0, z: 0.014733526}
+        length: 0.036833823
+        modified: 1
+    - boneName: Walking ManSpine2
+      humanName: Spine
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.08422315, y: 0, z: 0.042111576}
+        length: 0.105278976
+        modified: 1
+    - boneName: Walking ManSpine3
+      humanName: Chest
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.18207766, y: 0, z: 0.09103883}
+        length: 0.22759715
+        modified: 1
+    - boneName: Walking ManNeck1
+      humanName: Neck
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.13421318, y: 0, z: 0.06710659}
+        length: 0.16776654
+        modified: 1
+    - boneName: Walking ManHead
+      humanName: Head
+      limit:
+        min: {x: -40, y: -40, z: -40}
+        max: {x: 40, y: 40, z: 40}
+        value: {x: 0.13421318, y: 0, z: 0.06710659}
+        length: 0.16776654
+        modified: 1
+    - boneName: Walking ManLCollarbone
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.000002}
+        value: {x: 0.12158843, y: 0, z: 0.060794216}
+        length: 0.15198557
+        modified: 1
+    - boneName: Walking ManRCollarbone
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: -15.000001, z: -15.000001}
+        max: {x: 0, y: 15.000001, z: 30.000002}
+        value: {x: 0.12158849, y: 0, z: 0.060794245}
+        length: 0.15198565
+        modified: 1
+    - boneName: Walking ManLUpperarm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.000004}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0.29857555, y: 0, z: 0.14928778}
+        length: 0.37321958
+        modified: 1
+    - boneName: Walking ManRUpperarm
+      humanName: RightUpperArm
+      limit:
+        min: {x: -90, y: -100, z: -60.000004}
+        max: {x: 90, y: 100, z: 100}
+        value: {x: 0.29857558, y: 0, z: 0.14928779}
+        length: 0.3732196
+        modified: 1
+    - boneName: Walking ManLForearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.25447965, y: 0, z: 0.12723982}
+        length: 0.3180997
+        modified: 1
+    - boneName: Walking ManRForearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: -90, y: 0, z: -80}
+        max: {x: 90, y: 0, z: 80}
+        value: {x: 0.2544795, y: 0, z: 0.12723975}
+        length: 0.3180995
+        modified: 1
+    - boneName: Walking ManLPalm
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0.12723982, y: 0, z: 0.06361991}
+        length: 0.15904985
+        modified: 1
+    - boneName: Walking ManRPalm
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: -40, z: -80}
+        max: {x: 0, y: 40, z: 80}
+        value: {x: 0.12723975, y: 0, z: 0.063619874}
+        length: 0.15904975
+        modified: 1
+    - boneName: Walking ManHeadBone001
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: -10, z: -10}
+        max: {x: 0, y: 10, z: 10}
+        value: {x: 0.079999976, y: 0, z: 0.039999988}
+        length: 0.1
+        modified: 1
+    - boneName: Walking ManLDigit11
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: 0.053924583, y: 0, z: 0.026962291}
+        length: 0.067405745
+        modified: 1
+    - boneName: Walking ManLDigit12
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0.024811307, y: 0, z: 0.0124056535}
+        length: 0.031014143
+        modified: 1
+    - boneName: Walking ManLDigit13
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0.018608479, y: 0, z: 0.009304239}
+        length: 0.023260606
+        modified: 1
+    - boneName: Walking ManLDigit21
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0.040816728, y: 0, z: 0.020408364}
+        length: 0.051020928
+        modified: 1
+    - boneName: Walking ManLDigit22
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.03971292, y: 0, z: 0.01985646}
+        length: 0.04964117
+        modified: 1
+    - boneName: Walking ManLDigit23
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.029784696, y: 0, z: 0.014892348}
+        length: 0.03723088
+        modified: 1
+    - boneName: Walking ManLDigit31
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: -7.5000005, z: -50}
+        max: {x: 0, y: 7.5000005, z: 50}
+        value: {x: 0.034055814, y: 0, z: 0.017027907}
+        length: 0.042569786
+        modified: 1
+    - boneName: Walking ManLDigit32
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.04178251, y: 0, z: 0.020891255}
+        length: 0.052228153
+        modified: 1
+    - boneName: Walking ManLDigit33
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.031336877, y: 0, z: 0.015668439}
+        length: 0.039171115
+        modified: 1
+    - boneName: Walking ManLDigit41
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: -7.5000005, z: -50}
+        max: {x: 0, y: 7.5000005, z: 50}
+        value: {x: 0.039022934, y: 0, z: 0.019511467}
+        length: 0.048778687
+        modified: 1
+    - boneName: Walking ManLDigit42
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.04136859, y: 0, z: 0.020684294}
+        length: 0.051710755
+        modified: 1
+    - boneName: Walking ManLDigit43
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.031026445, y: 0, z: 0.015513223}
+        length: 0.038783066
+        modified: 1
+    - boneName: Walking ManLDigit51
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0.03847104, y: 0, z: 0.01923552}
+        length: 0.04808882
+        modified: 1
+    - boneName: Walking ManLDigit52
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.036263425, y: 0, z: 0.018131712}
+        length: 0.0453293
+        modified: 1
+    - boneName: Walking ManLDigit53
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.027197571, y: 0, z: 0.013598786}
+        length: 0.033996973
+        modified: 1
+    - boneName: Walking ManRDigit11
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: -25, z: -20}
+        max: {x: 0, y: 25, z: 20}
+        value: {x: 0.04564586, y: 0, z: 0.02282293}
+        length: 0.05705734
+        modified: 1
+    - boneName: Walking ManRDigit12
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0.027846765, y: 0, z: 0.013923382}
+        length: 0.034808464
+        modified: 1
+    - boneName: Walking ManRDigit13
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: -40}
+        max: {x: 0, y: 0, z: 35}
+        value: {x: 0.02088507, y: 0, z: 0.010442535}
+        length: 0.026106348
+        modified: 1
+    - boneName: Walking ManRDigit21
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0.042748317, y: 0, z: 0.021374159}
+        length: 0.053435415
+        modified: 1
+    - boneName: Walking ManRDigit22
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.040816676, y: 0, z: 0.020408338}
+        length: 0.05102086
+        modified: 1
+    - boneName: Walking ManRDigit23
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.03061251, y: 0, z: 0.015306255}
+        length: 0.038265646
+        modified: 1
+    - boneName: Walking ManRDigit31
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: -7.5000005, z: -50}
+        max: {x: 0, y: 7.5000005, z: 50}
+        value: {x: 0.040126834, y: 0, z: 0.020063417}
+        length: 0.05015856
+        modified: 1
+    - boneName: Walking ManRDigit32
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.03598749, y: 0, z: 0.017993744}
+        length: 0.044984378
+        modified: 1
+    - boneName: Walking ManRDigit33
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.02699062, y: 0, z: 0.01349531}
+        length: 0.033738285
+        modified: 1
+    - boneName: Walking ManRDigit41
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: -7.5000005, z: -50}
+        max: {x: 0, y: 7.5000005, z: 50}
+        value: {x: 0.036815327, y: 0, z: 0.018407663}
+        length: 0.046019178
+        modified: 1
+    - boneName: Walking ManRDigit42
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.03847109, y: 0, z: 0.019235546}
+        length: 0.048088882
+        modified: 1
+    - boneName: Walking ManRDigit43
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.028853323, y: 0, z: 0.014426662}
+        length: 0.036066663
+        modified: 1
+    - boneName: Walking ManRDigit51
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: -20, z: -50}
+        max: {x: 0, y: 20, z: 50}
+        value: {x: 0.03902292, y: 0, z: 0.01951146}
+        length: 0.048778664
+        modified: 1
+    - boneName: Walking ManRDigit52
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.044818006, y: 0, z: 0.022409003}
+        length: 0.056022525
+        modified: 1
+    - boneName: Walking ManRDigit53
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: -45}
+        max: {x: 0, y: 0, z: 45}
+        value: {x: 0.0336135, y: 0, z: 0.01680675}
+        length: 0.042016894
+        modified: 1
+    skeleton:
+    - name: WalkingMan
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Walking ManPelvis
+      position: {x: 0.0009089222, y: 1.052102, z: -0.1364806}
+      rotation: {x: -0.49912268, y: 0.5008672, z: 0.49913114, w: -0.5008758}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Walking ManLThigh
+      position: {x: -0.01984188, y: 0.054101557, z: 0.10137348}
+      rotation: {x: -0.0886929, y: 0.9959832, z: -0.006624575, w: 0.010347711}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: Walking ManLCalf
+      position: {x: -0.51300275, y: 0.0000000500679, z: 0}
+      rotation: {x: 0.00010120486, y: 0.0020644732, z: 0.17847666, w: 0.9839419}
+      scale: {x: 1.0000011, y: 0.9999991, z: 0.9999999}
+      transformModified: 1
+    - name: Walking ManLFoot
+      position: {x: -0.5387982, y: 0, z: -0.000000014305114}
+      rotation: {x: -0.009792349, y: 0.003948797, z: -0.7090978, w: 0.7050311}
+      scale: {x: 1.0000023, y: 0.99999803, z: 0.99999994}
+      transformModified: 1
+    - name: Walking ManRThigh
+      position: {x: -0.019841995, y: 0.05410154, z: -0.10137349}
+      rotation: {x: -0.08706993, y: 0.9961286, z: 0.006584833, w: -0.010157652}
+      scale: {x: 1, y: 1.0000005, z: 1}
+      transformModified: 1
+    - name: Walking ManRCalf
+      position: {x: -0.5130028, y: 0.000000042915342, z: 0}
+      rotation: {x: -0.00010134875, y: -0.0020275465, z: 0.175433, w: 0.98448926}
+      scale: {x: 1.0000007, y: 0.999999, z: 0.9999999}
+      transformModified: 1
+    - name: Walking ManRFoot
+      position: {x: -0.5387983, y: 0.000000014305114, z: 0}
+      rotation: {x: 0.009689157, y: -0.0037982918, z: -0.709273, w: 0.7048571}
+      scale: {x: 1.0000014, y: 0.99999875, z: 0.99999994}
+      transformModified: 1
+    - name: Walking ManSpine1
+      position: {x: -0.052672576, y: -0.004029994, z: -0.000000010002404}
+      rotation: {x: 0.000000012302844, y: -0.00000008075942, z: -0.19095348, w: 0.98159903}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000001}
+      transformModified: 1
+    - name: Walking ManSpine2
+      position: {x: -0.12358623, y: 0.000000057220458, z: 0}
+      rotation: {x: -0.000000017162163, y: 0.000000096159155, z: 0.1363185, w: 0.990665}
+      scale: {x: 0.99999994, y: 0.99999964, z: 0.9999999}
+      transformModified: 1
+    - name: Walking ManSpine3
+      position: {x: -0.105279006, y: 0, z: -5.5879353e-11}
+      rotation: {x: -3.6718997e-10, y: 0.0000000053480407, z: 0.078738466, w: 0.99689525}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: Walking ManSpine4
+      position: {x: -0.11313572, y: 0, z: -5.5879353e-11}
+      rotation: {x: -0.0000000013448015, y: 0.000000010516308, z: 0.033418808, w: 0.9994414}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.99999994}
+      transformModified: 1
+    - name: Walking ManRibcage
+      position: {x: -0.11313549, y: -0.000000007152557, z: -5.5879353e-11}
+      rotation: {x: -0.0000000017326901, y: -0.000000012497745, z: -0.058566846, w: 0.99828345}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: Walking ManLCollarbone
+      position: {x: 0.020004386, y: 0.11697711, z: 0.03470447}
+      rotation: {x: 0.063588016, y: 0.68427134, z: 0.16581912, w: 0.7072717}
+      scale: {x: 0.9999996, y: 1, z: 1.0000005}
+      transformModified: 1
+    - name: Walking ManLUpperarm
+      position: {x: -0.15198563, y: 0, z: -0.000000114440915}
+      rotation: {x: 0.11212806, y: 0.018908994, z: -0.16172716, w: 0.9802622}
+      scale: {x: 0.99999917, y: 0.9999994, z: 1.000001}
+      transformModified: 1
+    - name: Walking ManLForearm
+      position: {x: -0.3732201, y: 0, z: 0.000000028610229}
+      rotation: {x: 0.09600701, y: -0.0038373568, z: -0.032351837, w: 0.99484736}
+      scale: {x: 0.9999992, y: 1.0000011, z: 1}
+      transformModified: 1
+    - name: Walking ManLPalm
+      position: {x: -0.31810036, y: 0, z: 0.000000028610229}
+      rotation: {x: -0.39400277, y: 0.012286589, z: 0.04434756, w: 0.9179565}
+      scale: {x: 0.9999977, y: 1.0000004, z: 1.000003}
+      transformModified: 1
+    - name: Walking ManLDigit11
+      position: {x: -0.038806457, y: 0, z: 0.056053534}
+      rotation: {x: -0.26812106, y: 0.31300992, z: -0.19476525, w: 0.89005744}
+      scale: {x: 0.9999993, y: 1.0000001, z: 1.0000006}
+      transformModified: 1
+    - name: Walking ManLDigit12
+      position: {x: -0.0674061, y: 0, z: -0.000000014305114}
+      rotation: {x: -0.000000018534028, y: 0.0000000076776, z: -0.012217897, w: 0.9999253}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: Walking ManLDigit13
+      position: {x: -0.03101429, y: 0, z: -0.000000014305114}
+      rotation: {x: -0.000000022441103, y: -0.0000000071769337, z: -0.012217882, w: 0.9999253}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Walking ManLDigit21
+      position: {x: -0.12935475, y: -0.000000028610229, z: 0.05605352}
+      rotation: {x: 0.00000005975834, y: -0.0000000060963523, z: 0.02268802, w: 0.99974257}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Walking ManLDigit22
+      position: {x: -0.051021192, y: -0.000000028610229, z: 0.000000014305114}
+      rotation: {x: -0.00000015219487, y: 0.0000016934781, z: 0.031298175, w: 0.99951005}
+      scale: {x: 0.99999917, y: 1.0000011, z: 1}
+      transformModified: 1
+    - name: Walking ManLDigit23
+      position: {x: -0.04964138, y: 0, z: -0.000000014305114}
+      rotation: {x: 0.0000000017898192, y: -0.0000000072324133, z: 0.24022523, w: 0.97071713}
+      scale: {x: 0.999999, y: 1.000001, z: 1}
+      transformModified: 1
+    - name: Walking ManLDigit31
+      position: {x: -0.1293548, y: -0.000000028610229, z: 0.01868451}
+      rotation: {x: -0.0015492573, y: 0.018450215, z: 0.062342606, w: 0.997883}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Walking ManLDigit32
+      position: {x: -0.04256996, y: 0, z: 0.000000028610229}
+      rotation: {x: -0.000000073404955, y: 0.0000013081368, z: 0.03445635, w: 0.99940616}
+      scale: {x: 0.9999995, y: 1.0000006, z: 1}
+      transformModified: 1
+    - name: Walking ManLDigit33
+      position: {x: -0.052228432, y: 0.000000014305114, z: -0.000000014305114}
+      rotation: {x: 0.0000000046382587, y: 0.000000016001325, z: 0.18051724, w: 0.98357177}
+      scale: {x: 0.9999995, y: 1.0000005, z: 1}
+      transformModified: 1
+    - name: Walking ManLDigit41
+      position: {x: -0.1293548, y: 0, z: -0.018684525}
+      rotation: {x: -0.0019201976, y: 0.021098929, z: 0.06421129, w: 0.99771136}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: Walking ManLDigit42
+      position: {x: -0.04877895, y: 0, z: -0.000000014305114}
+      rotation: {x: -0.00000018745428, y: -0.000000024157636, z: 0.032744396, w: 0.99946374}
+      scale: {x: 0.9999993, y: 1.0000007, z: 1}
+      transformModified: 1
+    - name: Walking ManLDigit43
+      position: {x: -0.051710986, y: -0.000000014305114, z: 0.000000021457671}
+      rotation: {x: -0.000000003311552, y: -0.000000019786105, z: 0.21303017, w: 0.9770456}
+      scale: {x: 0.9999992, y: 1.0000008, z: 1}
+      transformModified: 1
+    - name: Walking ManLDigit51
+      position: {x: -0.1293548, y: 0, z: -0.056053545}
+      rotation: {x: -0.0054575047, y: 0.03694323, z: 0.07164816, w: 0.9967306}
+      scale: {x: 0.99999964, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: Walking ManLDigit52
+      position: {x: -0.048089102, y: -0.000000007152557, z: 0}
+      rotation: {x: -0.00000059221475, y: -0.0000003925466, z: 0.028303528, w: 0.99959934}
+      scale: {x: 0.99999875, y: 1.0000014, z: 0.99999994}
+      transformModified: 1
+    - name: Walking ManLDigit53
+      position: {x: -0.04532953, y: -0.000000028610229, z: -0.000000014305114}
+      rotation: {x: 0.000000010929939, y: 0.000000015082469, z: 0.29570794, w: 0.95527834}
+      scale: {x: 0.99999857, y: 1.0000013, z: 0.99999994}
+      transformModified: 1
+    - name: Walking ManNeck1
+      position: {x: -0.000915184, y: -0.005647294, z: -0.0000000074878335}
+      rotation: {x: 0.000000017752294, y: 0.000000040787835, z: -0.16215877, w: 0.9867646}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: Walking ManNeck2
+      position: {x: -0.088983305, y: 0, z: 0}
+      rotation: {x: -0.00000012693094, y: -0.00000008244944, z: 0.33367562, w: 0.94268787}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Walking ManHead
+      position: {x: -0.08898285, y: 0, z: -5.5879353e-11}
+      rotation: {x: 0.00000011043809, y: 0.000000038093326, z: -0.17037934, w: 0.9853785}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: Walking ManHeadBone001
+      position: {x: 0.06003868, y: 0.037554026, z: -0.000000011455268}
+      rotation: {x: 0.000000052165007, y: -0.00000019376506, z: -0.72936434, w: 0.68412536}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Walking ManRCollarbone
+      position: {x: 0.020004157, y: 0.1169771, z: -0.03470447}
+      rotation: {x: -0.063588016, y: -0.6842713, z: 0.16581924, w: 0.70727175}
+      scale: {x: 0.99999964, y: 1, z: 1.0000005}
+      transformModified: 1
+    - name: Walking ManRUpperarm
+      position: {x: -0.15198568, y: -0.000000028610229, z: 0}
+      rotation: {x: -0.14565739, y: -0.0134781385, z: -0.16163117, w: 0.9759496}
+      scale: {x: 0.9999994, y: 1.0000004, z: 1.0000004}
+      transformModified: 1
+    - name: Walking ManRForearm
+      position: {x: -0.37321988, y: -0.000000028610229, z: 0.000000057220458}
+      rotation: {x: -0.09437991, y: 0.0043737614, z: -0.03187251, w: 0.9950163}
+      scale: {x: 0.99999875, y: 1.000001, z: 1}
+      transformModified: 1
+    - name: Walking ManRPalm
+      position: {x: -0.31810018, y: 0.000000014305114, z: 0.000000028610229}
+      rotation: {x: 0.3942857, y: -0.012456762, z: 0.049166642, w: 0.9175871}
+      scale: {x: 0.999997, y: 1.0000007, z: 1.0000021}
+      transformModified: 1
+    - name: Walking ManRDigit11
+      position: {x: -0.0388064, y: -0.000000028610229, z: -0.05605359}
+      rotation: {x: 0.266669, y: -0.29732823, z: -0.21190858, w: 0.8919519}
+      scale: {x: 0.99999934, y: 1.0000005, z: 1.0000004}
+      transformModified: 1
+    - name: Walking ManRDigit12
+      position: {x: -0.057057664, y: 0, z: 0.000000014305114}
+      rotation: {x: -0.000000014900048, y: 1.820604e-10, z: -0.012217866, w: 0.9999253}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Walking ManRDigit13
+      position: {x: -0.03480869, y: 0, z: -0.000000007152557}
+      rotation: {x: -0.000000026075085, y: 3.186053e-10, z: -0.012217851, w: 0.9999253}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Walking ManRDigit21
+      position: {x: -0.12935485, y: -0.000000028610229, z: -0.056053568}
+      rotation: {x: -0.000000030725733, y: -6.972847e-10, z: 0.022687992, w: 0.99974257}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: Walking ManRDigit22
+      position: {x: -0.053435724, y: 0.000000014305114, z: 0}
+      rotation: {x: -0.000000030765058, y: 0.000001095514, z: 0.031297285, w: 0.99951005}
+      scale: {x: 0.99999875, y: 1.0000011, z: 0.99999994}
+      transformModified: 1
+    - name: Walking ManRDigit23
+      position: {x: -0.051021192, y: 0, z: -0.000000007152557}
+      rotation: {x: -0.000000024345358, y: 0.000000020838916, z: 0.24022502, w: 0.9707172}
+      scale: {x: 0.9999988, y: 1.0000011, z: 1}
+      transformModified: 1
+    - name: Walking ManRDigit31
+      position: {x: -0.12935491, y: -0.000000028610229, z: -0.018684525}
+      rotation: {x: 0.0015492807, y: -0.018450009, z: 0.062342722, w: 0.997883}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Walking ManRDigit32
+      position: {x: -0.050158825, y: 0.000000014305114, z: 0.000000007152557}
+      rotation: {x: 0.000000088296375, y: 0.0000000024567228, z: 0.03445491, w: 0.9994062}
+      scale: {x: 0.9999993, y: 1.0000007, z: 1}
+      transformModified: 1
+    - name: Walking ManRDigit33
+      position: {x: -0.044984605, y: -0.000000014305114, z: -0.000000007152557}
+      rotation: {x: -0.000000021312047, y: -0.0000000076989615, z: 0.18051709, w: 0.9835718}
+      scale: {x: 0.99999917, y: 1.0000007, z: 1}
+      transformModified: 1
+    - name: Walking ManRDigit41
+      position: {x: -0.12935485, y: 0, z: 0.018684525}
+      rotation: {x: 0.0019201678, y: -0.021098519, z: 0.06421186, w: 0.99771136}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: Walking ManRDigit42
+      position: {x: -0.04601944, y: -0.000000007152557, z: -0.000000014305114}
+      rotation: {x: 0.00000020939117, y: -0.00000025775356, z: 0.03274321, w: 0.99946374}
+      scale: {x: 0.999999, y: 1.000001, z: 1}
+      transformModified: 1
+    - name: Walking ManRDigit43
+      position: {x: -0.04808916, y: -0.000000014305114, z: 0.000000014305114}
+      rotation: {x: 0.000000020114294, y: -0.000000022304082, z: 0.21303, w: 0.9770456}
+      scale: {x: 0.9999991, y: 1.000001, z: 1}
+      transformModified: 1
+    - name: Walking ManRDigit51
+      position: {x: -0.12935485, y: -0.000000028610229, z: 0.056053545}
+      rotation: {x: 0.0054573365, y: -0.036944136, z: 0.07164879, w: 0.9967305}
+      scale: {x: 0.99999964, y: 1.0000005, z: 1}
+      transformModified: 1
+    - name: Walking ManRDigit52
+      position: {x: -0.04877895, y: 0.000000014305114, z: -0.000000014305114}
+      rotation: {x: 0.00000003008635, y: -0.0000012570407, z: 0.028304415, w: 0.9995993}
+      scale: {x: 0.99999833, y: 1.0000018, z: 1.0000001}
+      transformModified: 1
+    - name: Walking ManRDigit53
+      position: {x: -0.05602289, y: 0.000000028610229, z: 0.000000014305114}
+      rotation: {x: -0.000000003855596, y: 0.000000012455433, z: 0.2957077, w: 0.9552784}
+      scale: {x: 0.9999984, y: 1.0000018, z: 1.0000001}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

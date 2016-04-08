@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 9bfff932353ddd7468a7327e4ac5a303
+timeCreated: 1457720570
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AlienBodyMesh
+    100002: Back
+    100004: Back_Base
+    100006: //RootNode
+    100008: Carl
+    100010: Clav_Base
+    100012: Head
+    100014: L_Ankle
+    100016: L_Ball
+    100018: L_Clav
+    100020: L_Elbow
+    100022: L_Eye
+    100024: L_Hip
+    100026: L_Knee
+    100028: L_Pinky_Base
+    100030: L_Pinky_Mid
+    100032: L_Pointer_Base
+    100034: L_Pointer_Mid
+    100036: L_Shoulder
+    100038: L_Thum_Mid
+    100040: L_Thumb_Base
+    100042: L_Thumb_Meta
+    100044: L_Toe
+    100046: L_Wrist
+    100048: Neck
+    100050: R_Ankle
+    100052: R_Ball
+    100054: R_Clav
+    100056: R_Elbow
+    100058: R_Eye
+    100060: R_Hip
+    100062: R_Knee
+    100064: R_Pinky_Base
+    100066: R_Pinky_Mid
+    100068: R_Pointer_Base
+    100070: R_Pointer_Mid
+    100072: R_Shoulder
+    100074: R_Thum_Mid
+    100076: R_Thumb_Base
+    100078: R_Thumb_Meta
+    100080: R_Toe
+    100082: R_Wrist
+    100084: Root
+    400000: AlienBodyMesh
+    400002: Back
+    400004: Back_Base
+    400006: //RootNode
+    400008: Carl
+    400010: Clav_Base
+    400012: Head
+    400014: L_Ankle
+    400016: L_Ball
+    400018: L_Clav
+    400020: L_Elbow
+    400022: L_Eye
+    400024: L_Hip
+    400026: L_Knee
+    400028: L_Pinky_Base
+    400030: L_Pinky_Mid
+    400032: L_Pointer_Base
+    400034: L_Pointer_Mid
+    400036: L_Shoulder
+    400038: L_Thum_Mid
+    400040: L_Thumb_Base
+    400042: L_Thumb_Meta
+    400044: L_Toe
+    400046: L_Wrist
+    400048: Neck
+    400050: R_Ankle
+    400052: R_Ball
+    400054: R_Clav
+    400056: R_Elbow
+    400058: R_Eye
+    400060: R_Hip
+    400062: R_Knee
+    400064: R_Pinky_Base
+    400066: R_Pinky_Mid
+    400068: R_Pointer_Base
+    400070: R_Pointer_Mid
+    400072: R_Shoulder
+    400074: R_Thum_Mid
+    400076: R_Thumb_Base
+    400078: R_Thumb_Meta
+    400080: R_Toe
+    400082: R_Wrist
+    400084: Root
+    2300000: L_Eye
+    2300002: R_Eye
+    3300000: L_Eye
+    3300002: R_Eye
+    4300000: AlienBodyMesh
+    4300002: L_Eye
+    4300004: R_Eye
+    9500000: //RootNode
+    13700000: AlienBodyMesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
