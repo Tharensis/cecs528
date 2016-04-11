@@ -801,7 +801,6 @@ namespace MazeGen
                 GLDraw.DrawLine(centerPos[vr1, vc1], centerPos[vr2, vc2], Color.green);
                 vr1 = vr2;
                 vc1 = vc2;
-
             }
         }
 
@@ -843,7 +842,7 @@ namespace MazeGen
 
             // Draw edges of the graph
             foreach (Edge edge in graph.edges)
-                GLDraw.DrawLine(edge.startNode.Position, edge.endNode.Position, edge.color);
+                GLDraw.DrawLine(edge.startNode.Position, edge.endNode.Position, Color.red);
         }
 
         // Draw graph of the cell connecting edges

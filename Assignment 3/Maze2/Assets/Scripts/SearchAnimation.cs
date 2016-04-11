@@ -16,6 +16,16 @@ public class SearchAnimation : MonoBehaviour
     List<Node> waypoints = new List<Node>();
     int nvisited;       // for performance measure
 
+    public void setSpeed(float newSpeed)
+    {
+		speed = newSpeed;
+    }
+
+    public void setRotation(float newRotation)
+    {
+		rotationSpeed = newRotation;
+    }
+
     #region DFS Animation
 
     public bool DFSAnimation(Graph g, int sID, int eID)

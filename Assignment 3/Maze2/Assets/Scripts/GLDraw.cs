@@ -6,7 +6,7 @@ public class GLDraw : MonoBehaviour
     static public void DrawDot(float x, float z, Color color, float r = 0.01f)
     {
         GL.Begin(GL.QUADS);
-        GL.Color(color);
+        GL.Color(Color.red);
         GL.Vertex(new Vector3(x + r, 0, z + r));
         GL.Vertex(new Vector3(x + r, 0, z - r));
         GL.Vertex(new Vector3(x - r, 0, z - r));
@@ -30,7 +30,7 @@ public class GLDraw : MonoBehaviour
         //GL.LineWidth (4);
 
         GL.Begin(GL.LINES);
-        GL.Color(Color.blue);	    // GL.Color must be in between GL.Begin and GL.End.
+        GL.Color(Color.red);	    // GL.Color must be in between GL.Begin and GL.End.
         GL.Vertex3(sx1, 0, sz1);
         GL.Vertex3(sx2, 0, sz2);
         GL.End();
@@ -39,7 +39,7 @@ public class GLDraw : MonoBehaviour
     static public void DrawLine(Vector3 p1, Vector3 p2, Color color) // 1 ==> red, 2 ==> green, 3 ==> blue
     {
         GL.Begin(GL.LINES);
-            GL.Color(color);	    // GL.Color must be in between GL.Begin and GL.End.
+            GL.Color(Color.red);	    // GL.Color must be in between GL.Begin and GL.End.
         GL.Vertex3(p1.x, p1.y, p1.z);
         GL.Vertex3(p2.x, p2.y, p2.z);
         GL.End();

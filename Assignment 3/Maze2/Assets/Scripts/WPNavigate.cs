@@ -10,7 +10,7 @@ public class WPNavigate : MonoBehaviour
 
     public GameObject cam;
     public GUIText gt;
-    public float speed = 0.5f;
+    public float speed { get; set;}
     public float rotationSpeed = 10.0f;
     public float accuracy = 0.01f;
 

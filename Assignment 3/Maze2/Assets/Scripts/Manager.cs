@@ -22,14 +22,17 @@ public class Manager : MonoBehaviour
     public Button aStarAnimationButton;
     public Button pauseButton;
     public Button exitButton;
+    public Button sliderButton;
+
+    public Animator anim;
     
     Maze maze;
     Graph ourGraph = null;
     bool showGraph = false;
     bool showGraphSolution = false;
     bool isPaused = false;
-    string rows = "20";
-    string columns = "20";
+    string rows = "5";
+    string columns = "5";
 
     Material lineMaterial;
 
@@ -175,6 +178,12 @@ public class Manager : MonoBehaviour
         Application.Quit();
     }
 
+    public void SliderButton()
+    {
+		anim.SetBool ("showMenu", !anim.GetBool("showMenu"));
+		print ("Slider pressed");
+    }
+
     void OnPostRender()
     {
         if (!maze.Gen)
@@ -306,12 +315,12 @@ public class Manager : MonoBehaviour
         // Draw nodes of the graph
         foreach (Node node in ourGraph.nodes)
         {
-            GLDraw.DrawDot(node.Position.x, node.Position.z, node.color, node.dotSize);
+            GLDraw.DrawDot(node.Position.x, node.Position.z, Color.red, node.dotSize);
             //Debug.Log(node.Position.x);
         }
 
         // Draw edges of the graph
         foreach (Edge edge in ourGraph.edges)
-            GLDraw.DrawLine(edge.startNode.Position, edge.endNode.Position, edge.color);
+            GLDraw.DrawLine(edge.startNode.Position, edge.endNode.Position, Color.red);
    }
 }
